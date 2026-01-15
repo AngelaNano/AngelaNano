@@ -1,9 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I'm Angela!
 
+Welcome to my GitHub profile! 😊  
+I'm passionate about learning, building, and sharing projects that make an impact.
 <!--
 **AngelaNano/AngelaNano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### About me
+### 🚀 About Me
 
 - 🔭 I’m currently working on improving my coding skills and building personal projects!
 - 🌱 I’m currently learning new technologies and best practices in software development!
