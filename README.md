@@ -12,7 +12,6 @@ I'm passionate about learning, innovating, and sharing projects that make an imp
 - 👯 I’m looking to collaborate on open-source projects and creative ideas!
 - 🤔 I’m looking for help with exploring advanced concepts and real-world applications!
 - 💬 Ask me about anything related to my repositories or what I’m currently learning!
-- 📫 How to reach me: anano002@fiu.edu
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love discovering new tools and turning ideas into reality that will better serve and help the community and society as a whole.
 
