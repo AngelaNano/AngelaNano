@@ -1,18 +1,11 @@
-## Hi there 👋 I'm Angela!
+Angela The Engineer · Software Engineer & AI/ML Builder
 
-Welcome to my GitHub profile! 😊  
-I'm passionate about learning, innovating, and sharing projects that make an impact.
-<!--
-**AngelaNano/AngelaNano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Building production-grade AI systems — multi-agent pipelines, RAG applications, and full-stack platforms.
 
-### 🚀 About Me
-- 🔭 I’m currently working on improving my coding skills and building personal projects!
-- 🌱 I’m currently learning new technologies and best practices in software development!
-- 👯 I’m looking to collaborate on open-source projects and creative ideas!
-- 🤔 I’m looking for help with exploring advanced concepts and real-world applications!
-- 💬 Ask me about anything related to my repositories or what I’m currently learning!
-- 😄 Pronouns: She/Her
+🔭 Currently: AWS Bedrock multi-agent research systems · Open-source middleware & HITL frameworks at FIU
+🛠️ Stack: Python · Java · AWS · Django · React · MongoDB · Docker
+🤝 Open to collaborations on AI, backend, and open-source projects
+😄 She/Her
 - ⚡ Fun fact: I love discovering new tools and turning ideas into reality that will better serve and help the community and society as a whole.
 
 ### 🛠️ Tech & Tools
