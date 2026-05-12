@@ -6,7 +6,7 @@ Building production-grade AI systems — multi-agent pipelines, RAG applications
 🛠️ Stack: Python · Java · AWS · Django · React · MongoDB · Docker
 🤝 Open to collaborations on AI, backend, and open-source projects
 😄 She/Her
-- ⚡ Fun fact: I love discovering new tools and turning ideas into reality that will better serve and help the community and society as a whole.
+⚡ Fun fact: I love discovering new tools and turning ideas into reality that will better serve and help the community and society as a whole.
 
 ### 🛠️ Tech & Tools
 - 💻 Programming & Development
