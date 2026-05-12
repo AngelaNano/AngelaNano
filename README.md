@@ -1,4 +1,4 @@
-Angela The Engineer · Software DevOps/Engineer, AI/ML Research & Development
+Angela The Engineer · Software DevOps, AI/ML Research & Engineer
 
 Building production-grade AI systems — multi-agent pipelines, RAG applications, and full-stack platforms.
 
